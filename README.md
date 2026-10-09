@@ -1,36 +1,33 @@
-# Risc-v-Makeathon                                                                                                                                                    # BooleanBoard
+# Risc-v-Makeathon                                                                                                                                                 # BooleanBoard
 
-## RISC-V Adaptive Chirp Sonar Transmitter SoC for Low-Power AUV Payloads
+### RISC-V Adaptive Chirp Sonar Transmitter SoC
 
-A custom System-on-Chip (SoC) developed using Verilog HDL and C firmware, based on the PicoRV32 RISC-V processor and targeting the Xilinx ZedBoard FPGA.
+A Verilog-based SoC designed for low-power sonar signal generation in Autonomous Underwater Vehicles (AUVs), using the PicoRV32 RISC-V processor and targeting the **BooleanBoard FPGA platform**.
 
-### Features
+## Features
 
 * PicoRV32 RISC-V processor
-* Custom SoC integration with RAM/ROM and address decoding
+* Custom SoC with RAM/ROM and address decoding
 * UART communication
 * Digital input register
 * Hardware CRC-8 accelerator
 * Sine lookup table (LUT)
 * BPSK sample generation
-* Adaptive chirp signal-generation development
 
-### Technologies
+## Tech Stack
 
-* Verilog HDL
-* C
-* RISC-V GCC
-* Xilinx Vivado
-* ZedBoard (Zynq-7000)
+* **Hardware:** Verilog HDL, BooleanBoard FPGA
+* **Firmware:** C, RISC-V GCC
+* **Tools:** FPGA development tools
 
-### Objective
+## Objective
 
-To explore a low-power, FPGA-based embedded SoC for configurable sonar signal generation in autonomous underwater vehicle (AUV) applications.
+To develop a compact, low-power FPGA-based SoC for programmable sonar signal generation in AUV applications.
 
-### Reference
+## Reference
 
 [PicoRV32 RISC-V Core](https://github.com/YosysHQ/picorv32)
 
-### Status
+## Status
 
-Under development. Features and hardware functionality are subject to simulation and FPGA verification.
+Under development. Functionality is subject to simulation and FPGA validation.
