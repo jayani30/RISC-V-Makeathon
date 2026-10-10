@@ -33,7 +33,7 @@ The design combines software programmability with hardware acceleration to provi
 
 ## Block Diagram
 
-![RISC-V Adaptive Chirp Sonar Transmitter SoC](https://github.com/jayani30/RISC-V-Makeathon/blob/1bc29a4ec7df613ff06910278f1c85f902cf0108/jpeg.jpg)
+![RISC-V Adaptive Chirp Sonar Transmitter SoC](https://github.com/jayani30/RISC-V-Makeathon/blob/c295d0355c67685b83cd53ea489b511a22fd90a5/jpeg.jpg)
 
 ## Module Description
 
