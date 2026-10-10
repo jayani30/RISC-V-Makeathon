@@ -1,4 +1,4 @@
-# Risc-v-Makeathon                                                                                                              # RISC-V Makeathon
+# Risc-v-Makeathon                                                                                                              
 
 ## RISC-V Adaptive Chirp Sonar Transmitter SoC
 
