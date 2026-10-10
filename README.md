@@ -14,7 +14,8 @@ A Verilog-based SoC designed for low-power sonar signal generation in Autonomous
 * Sine lookup table (LUT)
 * BPSK sample generation
 
-## Tech Stack
+## Tech Stack ![Uploading image.png…]()
+
 
 * **Hardware:** Verilog HDL, BooleanBoard FPGA
 * **Firmware:** C, RISC-V GCC
