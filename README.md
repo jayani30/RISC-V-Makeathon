@@ -1,6 +1,6 @@
 # Risc-v-Makeathon                                                                                                              
 
-## RISC-V Adaptive Chirp Sonar Transmitter SoC
+## RISC-V-Based CRC-8 Error Detection System on FPGA
 
 A Verilog-based System-on-Chip (SoC) designed for programmable sonar signal generation in Autonomous Underwater Vehicles (AUVs). The system integrates the PicoRV32 RISC-V processor with custom peripherals and digital signal-generation modules, targeting the **BooleanBoard FPGA platform**.
 
